@@ -1,0 +1,28 @@
+/*Colour themes*/
+/*D9F8C4*/
+/*F9F9C5*/
+/*FAD9A1*/
+/*F37878*/
+
+/********element selectors********/
+
+h1{
+    margin:0 ;
+}
+
+body{
+    margin:0;
+    background-color: #D9F8C4;
+}
+
+div{
+    margin:70px;
+    margin-bottom:100px;
+    height:100px;
+    background-color: #F37878;
+}
+
+/********class selectors********/
+
+/********id selectors********/
+
