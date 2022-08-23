@@ -5,24 +5,100 @@
 /*F37878*/
 
 /********element selectors********/
+body{
+    background-color: #D9F8C4;
+    margin:0;
+}
 
 h1{
-    margin:0 ;
-}
-
-body{
-    margin:0;
-    background-color: #D9F8C4;
-}
-
-div{
-    margin:70px;
-    margin-bottom:100px;
-    height:100px;
-    background-color: #F37878;
+    font-family: "Acme", sans-serif;
+    text-align-last:center;
 }
 
 /********class selectors********/
+.box{
+    background-color: #F37878;
+    border-radius: 25px;
+    height:220px;
+    margin:70px;
+    margin-top: 18px;
+    margin-bottom: 18px;
+}
+
+.box2{
+    background-color: #F37878;
+    border-radius: 25px;
+    height:400px;
+    margin:70px;
+    margin-top: 18px;
+    margin-bottom: 18px;
+}
+
+.topleft{
+    border-right:4px solid #D9F8C4;
+    float:left;
+    height:220px;
+    text-align-last:center;
+    width:50%;
+}
+
+.topright{
+    height:220px;
+    margin-left: 55%;
+    text-align-last:left;
+    width:50%;
+}
+
+.toplefttexta{
+    font-size: 30px; 
+    margin-bottom: 10px;
+    margin-top: 10px; 
+}
+
+.toplefttextb{
+    font-size: 100px; 
+    margin-bottom: 10px;
+    margin-top: 10px; 
+}
+
+.toprighttext{
+    font-size: 30px; 
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.middleleft{
+    float:left;
+    height:220px;
+    text-align-last:center;
+    width:40%;
+}
+
+.middleright{
+    height:220px;
+    margin-left: 40%;
+    text-align-last:left;
+    width:60%;
+}
+
+.bottomleft{
+    float:left;
+    height:220px;
+    text-align-last:center;
+    width:70%;
+}
+
+.bottomright{
+    height:220px;
+    margin-left: 70%;
+    text-align-last:left;
+    width:30%;
+}
+
+.bottomrighttext{
+    font-size: 15px; 
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
 
 /********id selectors********/
-
