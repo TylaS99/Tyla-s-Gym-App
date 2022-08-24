@@ -71,21 +71,7 @@ h1{
     width:60%;
 }
 
-.bottomleft{
-    float:left;
-    height:100%;
-    text-align-last:center;
-    width:70%;
-}
-
-.bottomright{
-    height:100%;
-    margin-left: 70%;
-    text-align-last:left;
-    width:30%;
-}
-
-.bottomrighttext{
+.bottomtext{
     font-size: 20%; 
 }
 
