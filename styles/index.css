@@ -15,73 +15,57 @@ h1{
     text-align-last:center;
 }
 
-h3{
-    font-family: "Acme", sans-serif;
-    text-align-last:center; 
-}
-
 /********class selectors********/
 .box{
     background-color: #F37878;
     border-radius: 25px;
-    height:300px;
-    margin:100px;
-    margin-top: 18px;
-    margin-bottom: 18px;
+    height:20%;
+    margin:5%;
 }
 
 .box2{
     background-color: #F37878;
     border-radius: 25px;
-    height:600px;
-    margin:100px;
-    margin-top: 18px;
-    margin-bottom: 18px;
+    height:40%;
+    margin:5%;
 }
 
 .topleft{
     border-right:4px solid #D9F8C4;
     float:left;
-    height:300px;
+    height:100%;
     text-align-last:center;
     width:50%;
 }
 
 .topright{
-    height:300px;
+    height:100%;
     margin-left: 55%;
     text-align-last:left;
     width:50%;
 }
 
 .toplefttexta{
-    font-size: 40px; 
-    margin-bottom: 10px;
-    margin-top: 10px; 
+    font-size: 20%; 
 }
 
 .toplefttextb{
-    font-size: 120px; 
-    margin-bottom: 10px;
-    margin-top: 10px; 
+    font-size: 50%; 
 }
 
 .toprighttext{
-    font-size: 45px; 
-    margin-bottom: 10px;
-    margin-top: 10px;
-    text-align-last:left;
+    font-size: 20%; 
 }
 
 .middleleft{
     float:left;
-    height:300px;
+    height:100%;
     text-align-last:center;
     width:40%;
 }
 
 .middleright{
-    height:300px;
+    height:100%;
     margin-left: 40%;
     text-align-last:left;
     width:60%;
@@ -89,22 +73,20 @@ h3{
 
 .bottomleft{
     float:left;
-    height:600px;
+    height:100%;
     text-align-last:center;
     width:70%;
 }
 
 .bottomright{
-    height:600px;
+    height:100%;
     margin-left: 70%;
     text-align-last:left;
     width:30%;
 }
 
 .bottomrighttext{
-    font-size: 15px; 
-    margin-bottom: 10px;
-    margin-top: 10px;
+    font-size: 20%; 
 }
 
 /********id selectors********/
