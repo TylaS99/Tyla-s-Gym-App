@@ -1,0 +1,26 @@
+/*Colour themes*/
+/*D9F8C4*/
+/*F9F9C5*/
+/*FAD9A1*/
+/*F37878*/
+
+/********element selectors********/
+body{
+    background-color: #D9F8C4;
+    margin:0;
+}
+
+h1{
+    font-family: "Acme", sans-serif;
+    text-align-last:center;
+}
+
+/********class selectors********/
+.logbutton{
+    background-color: #F37878;
+    border-radius: 25px;
+    height:220px;
+    margin:70px;
+    margin-top: 18px;
+    margin-bottom: 18px;
+}
