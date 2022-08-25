@@ -64,7 +64,7 @@ h1{
     font-family: "Acme", sans-serif;
     font-size: 15px; 
     margin-bottom: 5px;
-    margin-left:25px;
+    margin-left:20px;
     margin-top: 12px;
     
 }
@@ -75,6 +75,15 @@ h1{
     margin-bottom: 5px;
     margin-left:60px;
     margin-top: 5px;
+    
+}
+
+.toplefttextc{
+    font-family: "Acme", sans-serif;
+    font-size: 15px; 
+    margin-bottom: 5px;
+    margin-left:35px;
+    margin-top: 12px;
     
 }
 
